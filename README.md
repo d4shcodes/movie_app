@@ -1,6 +1,6 @@
-# 🎬 Tenflix - Movie & Series Discovery App
+# 🎬 Tenflix - Movie & Series App
 
-Tenflix is a movie and series discovery app designed to provide users with a streamlined experience in finding their next favorite show or film. 🎥 Built for fun and to gain insights into API integration, Tenflix offers access to movie and series summaries, along with ratings to help users make informed choices.
+Tenflix is a movie and series app designed to provide users with a streamlined experience in finding their next favorite show or film. 🎥 Built for fun and to gain insights into API integration, Tenflix offers access to movie and series summaries, along with ratings to help users make informed choices.
 
 ## 🛠 Built with Flutter
 
